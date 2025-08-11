@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recipe Explorer</string>
+    <string name="app_desc">Discover, Save, and Create Cooking Recipes!</string>
+</resources>
