@@ -2,7 +2,7 @@ pluginManagement {
     repositories {
         google()
         gradlePluginPortal()
-        maven { url = uri("https://maven.pkg.jetbrains.space/public/p/compose/dev") }
+        maven { url = uri("https://maven.pkg.jetbrains.space/public/p/compose/dev") } // Required for org.jetbrains.compose plugin to resolve in Kotlin 2.0+
     }
 }
 
